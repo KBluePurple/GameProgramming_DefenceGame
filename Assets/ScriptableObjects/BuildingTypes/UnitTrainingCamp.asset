@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18be3870f68fa8e47a5ab6349c9ee5c9, type: 3}
+  m_Name: UnitTrainingCamp
+  m_EditorClassIdentifier: 
+  nameString: 
+  prefab: {fileID: 3227042075701202059, guid: 8847dc73c38cd0a4d843fa91b2560b76, type: 3}
+  hasResourceGeneratorData: 0
+  resourceGeneratorData:
+    timerMax: 0
+    resourceType: {fileID: 0}
+    resourceDetectionRadius: 0
+    maxResourceAmount: 0
+  sprite: {fileID: 21300000, guid: f9161c6c9e06dc445ada3ee16d991f90, type: 3}
+  minConstructionRadius: 0
+  constructionResourceCostArray: []
+  healthAmountMax: 100
+  constructionTimerMax: 0
